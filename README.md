@@ -1,7 +1,1 @@
-**火星API中转站**（AI中转站源头）  
-👉 平台链接：<https://ai.haxiaiplus.cn>  
-🔥 核心功能：  
-- 多模态AI模型API集成  
-- 高并发低延迟中转服务  
-- 自定义接口配置  
-- 企业级应用支持  
+[火星API中转站,AI中转站,AI中转站源头,](https://ai.haxiaiplus.cn)
